@@ -1,2 +1,2 @@
-BookManagement is the readme file about the js project
-Qafor - It is the read me file about the MT project
+Summary: The Book Shop Management System is a JavaScript and Node.js application designed to manage book inventory, sales, and user interactions. It features an intuitive interface for adding, updating, and removing books, as well as handling user accounts and transactions. This system leverages robust back-end logic and a user-friendly front-end to streamline bookstore operations efficiently.
+QAfox is a comprehensive web application focused on providing quality assurance testing tools and features. It includes functionalities for test case management, bug reporting, and test execution tracking. Designed with both manual and automated testing in mind, QAfox aims to enhance the testing workflow and improve software quality through an intuitive and efficient platform.
